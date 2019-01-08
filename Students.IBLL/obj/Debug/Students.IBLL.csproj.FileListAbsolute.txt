@@ -1,0 +1,14 @@
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\Students.IBLL.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\Students.IBLL.pdb
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\Students.Models.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\EntityFramework.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\Students.Models.pdb
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\Students.Models.dll.config
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\EntityFramework.xml
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\obj\Debug\Students.IBLL.csprojAssemblyReference.cache
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\obj\Debug\Students.IBLL.csproj.CoreCompileInputs.cache
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\obj\Debug\Students.IBLL.csproj.CopyComplete
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\obj\Debug\Students.IBLL.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\obj\Debug\Students.IBLL.pdb
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\System.ValueTuple.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IBLL\bin\Debug\System.ValueTuple.xml

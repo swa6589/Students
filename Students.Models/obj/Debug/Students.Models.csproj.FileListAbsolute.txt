@@ -1,0 +1,11 @@
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\obj\Debug\Students.Models.csproj.CoreCompileInputs.cache
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\bin\Debug\Students.Models.dll.config
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\bin\Debug\Students.Models.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\bin\Debug\Students.Models.pdb
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\bin\Debug\EntityFramework.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\bin\Debug\EntityFramework.xml
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\obj\Debug\Students.Models.csproj.CopyComplete
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\obj\Debug\Students.Models.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.Models\obj\Debug\Students.Models.pdb
