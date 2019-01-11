@@ -6,6 +6,7 @@
     using Students.Models;
     using System;
     using System.Collections.Generic;
+    using System.Threading.Tasks;
 
     public class StudentsBll : IStudentsBll
     {
@@ -15,9 +16,14 @@
             this.studentsDal = new StudentsDal();
         }
 
-        public Tuple<int, IList<Student>> Students(int pageNumber, int pageSize, string sort)
+        public Task<Tuple<int, IList<Student>>> Students(int pageNumber, int pageSize, string sort)
         {  
             return studentsDal.Students(pageNumber, pageSize, sort);
+        }
+
+        public Task<bool> Add(Student model)
+        {
+            return studentsDal.Add(model);
         }
     }
 }

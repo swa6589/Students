@@ -1,14 +1,14 @@
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\Students.IDAL.dll
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\Students.IDAL.pdb
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\Students.Models.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\System.ValueTuple.dll
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\EntityFramework.dll
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\Students.Models.pdb
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\Students.Models.dll.config
+C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\System.ValueTuple.xml
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\EntityFramework.xml
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\obj\Debug\Students.IDAL.csprojAssemblyReference.cache
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\obj\Debug\Students.IDAL.csproj.CoreCompileInputs.cache
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\obj\Debug\Students.IDAL.csproj.CopyComplete
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\obj\Debug\Students.IDAL.dll
 C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\obj\Debug\Students.IDAL.pdb
-C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\System.ValueTuple.dll
-C:\Users\swathi.nagaraj\source\repos\Students\Students.IDAL\bin\Debug\System.ValueTuple.xml

@@ -1,5 +1,6 @@
 ﻿namespace Students
 {
+    using Students.Models;
     using System.Web.Mvc;
     using System.Web.Routing;
 
@@ -11,6 +12,10 @@
             RouteConfig.RegisterRoutes(RouteTable.Routes);
 
             UnityConfig.RegisterComponents();
+
+            SchoolContext con = new SchoolContext();
+            con.Database.Initialize(true);
+            con.Database.CreateIfNotExists();
         }
     }
 }

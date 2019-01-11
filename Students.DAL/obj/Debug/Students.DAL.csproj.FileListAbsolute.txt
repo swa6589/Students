@@ -5,15 +5,15 @@ C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\EntityFrame
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\Students.IDAL.dll
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\Students.Models.dll
+C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\System.ValueTuple.dll
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\Students.IDAL.pdb
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\Students.Models.pdb
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\Students.Models.dll.config
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\EntityFramework.xml
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\System.ValueTuple.xml
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\obj\Debug\Students.DAL.csprojAssemblyReference.cache
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\obj\Debug\Students.DAL.csproj.CoreCompileInputs.cache
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\obj\Debug\Students.DAL.csproj.CopyComplete
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\obj\Debug\Students.DAL.dll
 C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\obj\Debug\Students.DAL.pdb
-C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\System.ValueTuple.dll
-C:\Users\swathi.nagaraj\source\repos\Students\Students.DAL\bin\Debug\System.ValueTuple.xml
